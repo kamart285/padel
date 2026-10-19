@@ -1,7 +1,7 @@
 {
-  "id": "./",
-  "name": "Padel Anzeige",
-  "short_name": "Padel",
+  "id": "./padel-punkte",
+  "name": "Padel Punkte",
+  "short_name": "Padel Punkte",
   "description": "Großer Padel-Spielstand fürs Handy am Zaun, zählbar per Uhr, Fernbedienung oder Antippen",
   "lang": "de",
   "start_url": "./index.html",
